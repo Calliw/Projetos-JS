@@ -1,0 +1,13 @@
+.calculadora{
+    border: 1px solid #111;
+    border-radius: 10px;
+}
+
+.calculadora input{
+    height: 100px;
+}
+.calculadora button{
+    width: 20%;
+    height: 20%;
+    margin: 5px;
+}
