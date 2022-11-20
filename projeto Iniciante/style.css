@@ -1,0 +1,24 @@
+.calculadora{
+    border-radius: 10px;
+    background-color: rgb(43, 43, 43);
+}
+
+.calculadora input{
+    height: 50px;
+}
+
+.calculadora textarea{
+    max-height: 50px;
+    min-height: 50px;
+    width: 100%;
+    border-radius: 5px;
+    resize: none;
+    overflow: hidden;
+    border: none;
+}
+
+.calculadora button{
+    width: 20%;
+    height: 20%;
+    margin: 5px;
+}
